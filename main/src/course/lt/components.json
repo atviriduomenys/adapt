@@ -1,0 +1,358 @@
+[
+    {
+        "_id":"c-01",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"intro-logo",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "",
+            "medium": "",
+            "small": ""
+        }
+    },
+    {
+        "_id":"c-02",
+        "_parentId":"b-01",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Sveiki",
+        "displayTitle":"Sveiki",
+        "body":"<p>Sveiki atvykę į e-mokymosi programą, kuri paruošta pagal European Data Portal metodologiją. Ši programa buvo sukurta tam, kad būtų lengva susipažinti su atvirais duomenimis ir jų daromu pokyčiu. Prie programos išvertimo į lietuvių kalbą prisidėjo Tilde.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-1-text-image_large.jpg",
+            "medium": "course/en/images/odi-1-text-image_large.jpg",
+            "small": "course/en/images/odi-1-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-12",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Pirmas modulis: Kas yra atviri duomenys?",
+        "displayTitle":"Pirmas modulis: Kas yra atviri duomenys?",
+        "body":"<progress style='width: 100%;' id='ODI_1' max='100' value='0'></progress><p>Atviri duomenys yra <strong>duomenys</strong> kuriuos <strong>visi</strong> gali <strong>prieiti</strong>, <strong>naudoti</strong> ir <strong>dalintis</strong>. Viešasis sektorius, verslai ir visuomenė gali naudoti atvirus duomenis siekdami socialinės, ekonominės ar kitokios naudos.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>Kas yra atviri duomenys? </li><li>Kas yra duomenys? </li><li>Kas padaro duomenis atvirais?</li><li>Kam reikalingi atviri duomenys? </li></ul><p><a class='course_link' href='module1/'>Pirmas modulis</a></p>"
+    },
+
+  
+    {
+        "_id":"c-28",
+        "_parentId":"b-28",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Antras modulis: kodėl reikia licencijų?",
+        "displayTitle":"Antras modulis: kodėl reikia licencijų?",
+        "body":"<progress style='width: 100%;' id='ODI_4' max='100' value='0'></progress><p>Tam, kad duomenys būtų atviri, jie turi būti prieinami (tai paprastai reiškia, kad jie yra patalpinti internete) ir licencijuoti bet kokiai prieigai, naudojimui ir platinimui.</p><h5>Šiame modulyje: </h5><ul class='ticks'><li>kodėl duomenys turi būti licencijuojami? </li><li>Kaip licencijos veikia? </li><li>Kokios būna licencijų rūšys?</li><li>Kaip naudoti licencijas viešųjų pirkimų ir kitokių kontraktų metu?</li></ul><p><a class='course_link' href='module4/'>Antras modulis</a></p>"
+    },
+    {
+        "_id":"c-29",
+        "_parentId":"b-28",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-4-text-image_large.jpg",
+            "medium": "course/en/images/odi-4-text-image_large.jpg",
+            "small": "course/en/images/odi-4-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-5-text-image_large.png",
+            "medium": "course/en/images/odi-5-text-image_large.png",
+            "small": "course/en/images/odi-5-text-image_large.png"
+        }
+    },
+    {
+        "_id":"c-31",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Trečias modulis: kas lemia atvirų duomenų kokybę?",
+        "displayTitle":"Trečias modulis: kas lemia atvirų duomenų kokybę?",
+        "body":"<progress style='width: 100%;' id='ODI_5' max='100' value='0'></progress><p>Atvirų duomenų kokybės įvertinimas paprastai užtrunka. </p><p>Yra begalė skirtingų atviro formato standartų ir komercinių sprendimų, kurie padeda įvertinti, kiek naudingi ir kokybiški yra vieni ar kiti duomenys. </p><h5>Šiame modulyje: </h5><ul class='ticks'><li>Kas daro duomenis panaudojamais?</li><li>Kas užtikrina duomenų kokybę? </li><li>Kaip naudoti atvirų duomenų kokybės standartus?</li></ul><p><a class='course_link' href='module5/'>Trečias modulis</a></p>"
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Ketvirtas modulis: atvirų duomenų sėkmės vertinimas",
+        "displayTitle":"Ketvirtas modulis: atvirų duomenų sėkmės vertinimas",
+        "body":"<progress style='width: 100%;' id='ODI_6' max='100' value='0'></progress><p>Sėkmingos atvirųjų duomenų iniciatyvos naudingos ne tik dėl duomenų įkėlimo į žiniatinklį. Dauguma apie duomenis nusimanančių organizacijų taip pat pradėjo remtis politika ir sistemomis, skirtomis inovacijoms remti ir skatinti. </p><h5>Šiame modulyje:</h5><ul class='ticks'><li>sėkmės vertinimas;</li><li>orientavimasis į paklausą;</li><li>stebėjimas.</li></ul><p><a class='course_link' href='module6/'>Ketvirtas modulis</a></p>"
+    },
+    {
+        "_id":"c-41",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-6-text-image_large.jpg",
+            "medium": "course/en/images/odi-6-text-image_large.jpg",
+            "small": "course/en/images/odi-6-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Penktas modulis: kodėl turime užtikrinti duomenų tvarumą?",
+        "displayTitle":"Penktas modulis: kodėl turime užtikrinti duomenų tvarumą?",
+        "body":"<progress style='width: 100%;' id='ODI_7' max='100' value='0'></progress><p>Norint, kad atvirieji duomenys būtų naudingi ir tavrūs, jie turi būti aktualūs, nuolat atnaujinami ir prieinami.</p><p>Tvari atvirųjų duomenų programa nuolat atnaujina duomenis palaikydama bent jau tokią pačią arba geresnę kokybę.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>kaip sukurti tvarius duomenis;</li><li>kodėl tvarumas yra svarbu;</li><li>kaip atpažinti tvarius duomenų rinkinius.</li></ul><p><a class='course_link' href='module7/'>Penktas modulis</a></p>"
+    },
+    {
+        "_id":"c-61",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-7-text-image_large.jpg",
+            "medium": "course/en/images/odi-7-text-image_large.jpg",
+            "small": "course/en/images/odi-7-text-image_large.jpg"
+        }
+    },
+   
+    {
+        "_id":"c-81",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-9-text-image_large.jpg",
+            "medium": "course/en/images/odi-9-text-image_large.jpg",
+            "small": "course/en/images/odi-9-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-82",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Šeštas modulis: teisingo formato parinkimas",
+        "displayTitle":"Šeštas modulis: teisingo formato parinkimas",
+        "body":"<progress style='width: 100%;' id='ODI_9' max='100' value='0'></progress><p>Atvirų duomenų formatas- tai formatas, kuriuo duomenys yra stuktūrizuoti ir prieinami duomenų naudotojams. </p><p>Teisingo formato parinkimas užtikrina, kad duomenys bus lengvai tvarkomi ir pernaudojami. Norint maksimaliai užtikrinti duomenų panaudojamumą, duomenų tiekėjui gali prireikti panaudoti įvairius skirtingus formatus skirtingose platformose.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>kodėl duomenų formatas yra svarbus;</li><li>kaip teisingai pasirinkti formatą;</li><li>skirtingų formatų prieinamumas;</li><li>paprastai su CSV.</li></ul><p><a class='course_link' href='module9/'>Šeštas modulis</a></p>"
+    },
+    {
+        "_id":"c-91",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-10-text-image_large.jpg",
+            "medium": "course/en/images/odi-10-text-image_large.jpg",
+            "small": "course/en/images/odi-10-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-92",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Septintas modulis: Ar naudingi mano duomenys?",
+        "displayTitle":"Septintas modulis: Ar naudingi mano duomenys?",
+        "body":"<progress style='width: 100%;' id='ODI_10' max='100' value='0'></progress><p>Duomenų naudos įvertinimas priklauso nuo srities ir turinio. Tam, kad būtų galima įvertinti šį procesą, yra sukurta daugybė gairių, kurias visi duomenų atverėjai ir naudotojai gali naudotis. </p><p>Modulyje aprašomas 5 žvaigždučių (5 stars) metodas, skirtas duomenų brandos lygiui įvertinti.</p><h5>Šiame modulyje: </h5><ul class='ticks'><li>kas yra 5 žvaigždučių metodas?</li><li>Pirmos 3 žvaigždutės;</li><li>Kaip žvaigždutėmis įvertinti duomenis?</li></ul><p><a class='course_link' href='module10/'>Septintas modulis</a></p>"
+    },
+    {
+        "_id":"c-101",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Aštuntas modulis: kaip paruošti duomenis",
+        "displayTitle":"Aštuntas modulis: kaip paruošti duomenis",
+        "body":"<progress style='width: 100%;' id='ODI_11' max='100' value='0'></progress><p>Vienas didžiausių iššūkių dirbant su bet kokiais duomenimis yra klaidų šalinimas. Dažnai duomenų leidėjai klaidų netgi nepastebi, nes per daugelį metų duomenys gali pasikeisti.</p><p>Dirbant su bet kokiais duomenimis svarbu žinoti, kaip rasti ir ištaisyti klaidas, kad duomenys taptų naudingesni.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>dažniausiai pasitaikančios duomenų klaidos;</li><li>naudingi duomenų valymo įrankiai;</li><li>duomenų valymo priežastys.</li></ul><p><a class='course_link' href='module11/'>Aštuntas modulis</a></p>"
+    },
+    {
+        "_id":"c-102",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-11-text-image_large.jpg",
+            "medium": "course/en/images/odi-11-text-image_large.jpg",
+            "small": "course/en/images/odi-11-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-111",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-12-text-image_large.jpg",
+            "medium": "course/en/images/odi-12-text-image_large.jpg",
+            "small": "course/en/images/odi-12-text-image_large.jpg"
+        }
+    },
+    {
+        "_id":"c-112",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"Devintas modulis: paslėptų duomenų radimas internete",
+        "displayTitle":"Devintas modulis: paslėptų duomenų radimas internete",
+        "body":"<progress style='width: 100%;' id='ODI_12' max='100' value='0'></progress><p>„atvirieji duomenys“ – tai ne tik duomenų rinkiniai, kuriuos galima atsisiųsti. Atsisiunčiami atvirieji duomenys yra tik nedidelė žiniatinklyje pasiekiamų duomenų dalis.</p><p>Didžioji dalis žiniatinklyje pasiekiamų duomenų paslėpta nuo žmogaus akies. Tačiau mašinos gali rasti ir perskaityti šiuos duomenis.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>kaip rasti paslėptus duomenis;</li><li>kuo paslėpti duomenys gali būti naudingi;</li><li>kaip gauti paslėptus duomenis.</li></ul><p><a class='course_link' href='module12/'>Devintas modulis</a></p>"
+    },
+    {
+        "_id":"c-121",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Dešimtas modulis: duomenų tinklo susiejimas",
+        "displayTitle":"Dešimtas modulis: duomenų tinklo susiejimas",
+        "body":"<progress style='width: 100%;' id='ODI_13' max='100' value='0'></progress><p>Dabartinis interneto tinklas yra sukonfigūruotas kaip puslapių ar dokumentų eilės. Nors šie puslapiai rodo mums suprantamą informaciją, duomenys juose yra paslėpti. Šiame modulyje analizuosime, kas nutiktų, jei panaikintumėme visus puslapius ir dokumentus iš interneto tinklo.</p><p>Įsivaizduokite, jei jūs turite tik grynus duomenis, visus atvirus, naudojamus ir susietus į duomenų tinklą.</p><p>Šiame modulyje taip pat susipažinsime, kaip visos 5 žvaigždutės (brandos lygiai) padeda įgyvendinti duomenų tinklą.</p><h5>Šiame modulyje:</h5><ul class='ticks'><li>Kas yra duomenų tinklas?</li><li>Kaip yra naudojami interneto identifikatoriai?</li><li>Kaip atrodo susietų duomenų tinklas?</li></ul><p><a class='course_link' href='module13/'>Dešimtas modulis</a></p>"
+    },
+    {
+        "_id":"c-122",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/odi-13-text-image_large.jpg",
+            "medium": "course/en/images/odi-13-text-image_large.jpg",
+            "small": "course/en/images/odi-13-text-image_large.jpg"
+        }
+    },
+
+    {
+        "_id":"c-151",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/summary-icon.png",
+            "medium": "course/en/images/summary-icon.png",
+            "small": "course/en/images/summary-icon.png"
+        }
+    },
+    {
+        "_id":"c-152",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Sužinok daugiau",
+        "displayTitle":"Sužinok daugiau",
+        "body":"<p>Tikimės, kad kursas buvo naudingas.</p>"
+    },
+    {
+       "_id":"c-153",
+       "_parentId":"b-150",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-154",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png"
+        }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-150",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]
