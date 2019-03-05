@@ -1,0 +1,382 @@
+[
+  {
+    "_id": "m-1-a-01",
+    "_parentId": "m-1-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-4-a-01",
+    "_parentId": "m-4-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-5-a-01",
+    "_parentId": "m-5-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-6-a-01",
+    "_parentId": "m-6-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-7-a-01",
+    "_parentId": "m-7-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-9-a-01",
+    "_parentId": "m-9-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-10-a-01",
+    "_parentId": "m-10-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-11-a-01",
+    "_parentId": "m-11-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-12-a-01",
+    "_parentId": "m-12-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "m-13-a-01",
+    "_parentId": "m-13-co-01",
+    "_type": "article",
+    "_classes": "header",
+    "_trickle": {
+      "_isEnabled": false,
+      "button": "Continue to next question?"
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_showFeedback": false,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_completionMessage": {
+        "title": "You have finished the assessment",
+        "message": "You have scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+      },
+      "_bands": [
+        {
+          "_score": 0,
+          "feedback": "You must try harder"
+        },
+        {
+          "_score": 25,
+          "feedback": "I think you can do better than this"
+        },
+        {
+          "_score": 50,
+          "feedback": "Good effort, you are getting there..."
+        },
+        {
+          "_score": 75,
+          "feedback": "Excellent!"
+        }
+      ]
+    }
+  }
+]
