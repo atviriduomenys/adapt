@@ -40,7 +40,7 @@
     "_id":"c-11",
     "_parentId":"b-10",
     "_type":"component",
-    "_component":"iFrame-vimeo",
+    "_component":"text",
     "_classes":"",
     "_layout":"full",
         "title":"Atviri duomenys per 2 minutes ",
@@ -50,8 +50,8 @@
         "_setCompletionOn":"ended",
         "_source": "https://player.vimeo.com/video/129196637",
 	"_media": {
-		"mp4": "course/en/video/video.mp4",
-		"poster": "course/en/video/placeholder.jpg"
+		"mp4": "course/lt/video/video.mp4",
+		"poster": "course/lt/video/placeholder.jpg"
 	},
         "_height": {
             "_small" : 250,
@@ -69,9 +69,9 @@
         "_graphic": {
             "alt": "Kas yra atviri duomenys?",
             "title": "Kas yra atviri duomenys?",
-            "large": "course/en/images/odi-1-text-image_large.jpg",
-            "medium": "course/en/images/odi-1-text-image_large.jpg",
-            "small": "course/en/images/odi-1-text-image_large.jpg",
+            "large": "course/lt/images/odi-1-text-image_large.jpg",
+            "medium": "course/lt/images/odi-1-text-image_large.jpg",
+            "small": "course/lt/images/odi-1-text-image_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
             "*credit":"leromin",
             "*license":"Shutterstock Standard License"
@@ -104,7 +104,7 @@
                 "title": "Duomenys",
                 "body": "<p>Duomenys yra gryna medžiaga, iš kurios galima išgauti informaciją ir žinias.</p><p>Pavyzdžiui duomenis galima įsivaizduoti kaip žemėlapius, paveiksliukus, aprašymus, atsiliepimus ar kainas, kurių kuriama bazinė informarcija padeda mums planuoti atostogas.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-2-narrative_large.jpg",
+                    "src": "course/lt/images/odi-2-narrative_large.jpg",
                     "alt": "Duomenys žinių piramidėje",
                     "title": "Duomenys žinių piramidėje",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
@@ -117,7 +117,7 @@
                 "title": "Informacija",
                 "body": "<p>Duomenys tampa informacija, kai duomenims yra suteikiamas kontekstas.</p><p>Anksčiau minėti žemėlapiai, paveiksliukai, aprašymai ir kainos gali padėti mums surinkti atitinkamą informaciją, susijusią su viena ar kita turistine lokacija.</p><p>Duomenų surinkimas ir pateikimas padeda suformuoti tokią informaciją.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-3-narrative_large.jpg",
+                    "src": "course/lt/images/odi-3-narrative_large.jpg",
                     "alt": "Informacija žinių piramidėje",
                     "title": "Informacija žinių piramidėje",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
@@ -130,7 +130,7 @@
                 "title": "Žinios",
                 "body": "<p>Žinios tai yra tai, kas surenkama iš informacijos ir pritaikoma asmeniniams poreikiams.</p><p>Žinių plėtimas  - tai procesas, kurio metu informacija paverčiama į pasirinkimus.</p><p>Pavydžiui surinkę informaciją apie turistines vietas ir žinodami savo šeimos pomėgius galime priimti sprendimus, kur geriau vykti atostogų.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-4-narrative_large.jpg",
+                    "src": "course/lt/images/odi-4-narrative_large.jpg",
                     "alt": "Žinios žinių piramidėje",
                     "title": "Žinios žinių piramidėje",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
@@ -154,9 +154,9 @@
         "_graphic": {
             "alt": "Kas padaro duomenis atvirais?",
             "title": "Kas padaro duomenis atvirais?",
-            "large": "course/en/images/odi-5-accordion_large.jpg",
-            "medium": "course/en/images/odi-5-accordion_large.jpg",
-            "small": "course/en/images/odi-5-accordion_large.jpg",
+            "large": "course/lt/images/odi-5-accordion_large.jpg",
+            "medium": "course/lt/images/odi-5-accordion_large.jpg",
+            "small": "course/lt/images/odi-5-accordion_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
             "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
@@ -210,7 +210,7 @@
                 "title": "Viešasis sektorius",
                 "body": "<p>Atviri duomenys gali padėti viešajam sektoriui būti skaidresniu ir efektyvesniu. Atviri duomenys parodo, kur yra išleidžiamas biudžetas, kokie įstatymai yra įgyvendinami, už kokius politikus balsuojame.</p><p class='not-dlab'>Pavyzdžiui, Kanadoje 2010 m. dėl atvirų duomenų viešasis sektorius sutaupė 3.2mlrd Dolerių paviešindamas duomenis apie neskaidrią labdarą.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Kanados atvejis</a></p><p class='not-tz not-dlab not-default'>agal EU28+ BVP prognozę 2020 metams Europos sąjungos viešasis sektorius dėl atvirų duomenų <a href='http://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf#page=11' target='_blank'>sutaupys 1.7 mlrd Eur.</a></p><p class='not-tz not-dlab not-default'>Lexbase is a web service that provides public information from Swedish courts and other authorities. On the website judgments in criminal and civil cases concerning individuals and companies can be found. The database is updated with new judgments and decisions every day. The website is used to <a href='www.lexbase.se' target='_blank'>provide citizens with information about the criminality in different areas</a>.</p><p class='not-eu not-default'>For example, The open data dashboard for education in Tanzania motivates citizens to demand greater accountability from their school system and public officials.<br /><a href='http://odimpact.org/case-open-education-information-in-tanzania.html' target='_blank'>Take me to the education dashboard.</a></p><p>In another example, according to Follow the Money in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.<br /><a href='http://followthemoneyng.org/' target='_blank'>Take me to Follow the Money</a></p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-6-narrative_large.png",
+                    "src": "course/lt/images/odi-6-narrative_large.png",
                     "alt": "Viešasis sektorius",
                     "title": "Viešasis sektorius",
                     "*source":"http://www.shutterstock.com/pic-255896113",
@@ -223,7 +223,7 @@
                 "title": "Verslo galimybės",
                 "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p class='not-dlab'>Transport for London has released open data that developers have used to build over 800 transport apps.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Take me to Transport for London</a></p><p class='not-dlab'>Thomson Reuters is using open data to connect with existing customers in order to provide better services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters</a></p><p class='not-eu'>Find My School enables you to find the right school for you by location and exam results.<br/><a href='http://findmyschool.co.ke/discover' target='_blank'>Take me to Find My School</a></p><p>Startups in the ODI Startup programme now collectively employ over 70 people and generate over £4m in income.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Take me to the ODI annual report</a></p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-7-narrative_large.jpg",
+                    "src": "course/lt/images/odi-7-narrative_large.jpg",
                     "alt": "Verslo galimybės",
                     "title": "Verslo galimybės",
                     "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
@@ -250,9 +250,9 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/en/images/burst.png",
-            "medium": "course/en/images/burst.png",
-            "small": "course/en/images/burst.png"
+            "large": "course/lt/images/burst.png",
+            "medium": "course/lt/images/burst.png",
+            "small": "course/lt/images/burst.png"
         }
     },
     {
@@ -280,9 +280,9 @@
         "_graphic": {
             "alt": "Kas yra atviri duomenys?",
             "title": "",
-            "large": "course/en/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/en/images/odi-9-mcq-image_large.jpg",
-            "small": "course/en/images/odi-9-mcq-image_large.jpg",
+            "large": "course/lt/images/odi-9-mcq-image_large.jpg",
+            "medium": "course/lt/images/odi-9-mcq-image_large.jpg",
+            "small": "course/lt/images/odi-9-mcq-image_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
             "*credit":"leromin",
             "*license":"Shutterstock Standard License"
@@ -349,9 +349,9 @@
         "_graphic": {
             "alt": "Data, information, knowledge tiangle",
             "title": "",
-            "large": "course/en/images/odi-10-mcq_large.jpg",
-            "medium": "course/en/images/odi-10-mcq_large.jpg",
-            "small": "course/en/images/odi-10-mcq_large.jpg",
+            "large": "course/lt/images/odi-10-mcq_large.jpg",
+            "medium": "course/lt/images/odi-10-mcq_large.jpg",
+            "small": "course/lt/images/odi-10-mcq_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
             "*credit":"Anna Frajtova",
             "*license":"Shutterstock Standard License",
@@ -424,9 +424,9 @@
         "_graphic": {
             "alt": "Kas padaro duomenis atvirais?",
             "title": "",
-            "large": "course/en/images/odi-11-mcq_large.jpg",
-            "medium": "course/en/images/odi-11-mcq_large.jpg",
-            "small": "course/en/images/odi-11-mcq_large.jpg",
+            "large": "course/lt/images/odi-11-mcq_large.jpg",
+            "medium": "course/lt/images/odi-11-mcq_large.jpg",
+            "small": "course/lt/images/odi-11-mcq_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
             "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
@@ -493,9 +493,9 @@
         "_graphic": {
             "alt": "Kodėl mums reikia atvirų duomenų?",
             "title": "",
-            "large": "course/en/images/odi-12-mcq_large.jpg",
-            "medium": "course/en/images/odi-12-mcq_large.jpg",
-            "small": "course/en/images/odi-12-mcq_large.jpg",
+            "large": "course/lt/images/odi-12-mcq_large.jpg",
+            "medium": "course/lt/images/odi-12-mcq_large.jpg",
+            "small": "course/lt/images/odi-12-mcq_large.jpg",
             "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
             "*credit":"Sergey Nivens",
             "*license":"Shutterstock Standard License"
@@ -562,9 +562,9 @@
         "_graphic": {
             "alt": "Summary icon clipboard",
             "title": "Summary icon clipboard",
-            "large": "course/en/images/summary-icon.png",
-            "medium": "course/en/images/summary-icon.png",
-            "small": "course/en/images/summary-icon.png",
+            "large": "course/lt/images/summary-icon.png",
+            "medium": "course/lt/images/summary-icon.png",
+            "small": "course/lt/images/summary-icon.png",
             "*source":"http://www.shutterstock.com/pic-189810137.html",
             "*credit":"Kritchanut",
             "*license":"Shutterstock Standard License"
@@ -611,9 +611,9 @@
         "_graphic": {
             "alt": "Open data institute logo",
             "title": "Open data institute logo",
-            "large": "course/en/images/logo-small.png",
-            "medium": "course/en/images/logo-small.png",
-            "small": "course/en/images/logo-small.png",
+            "large": "course/lt/images/logo-small.png",
+            "medium": "course/lt/images/logo-small.png",
+            "small": "course/lt/images/logo-small.png",
             "*source":"http://theodi.org",
             "*credit":"The Open Data Institute",
             "*license":"All rights reserved"  
@@ -635,6 +635,6 @@
         "_component":"text",
         "_classes":"social-buttons not-dlab",
         "_layout":"right",
-        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/lt/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/lt/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/lt/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/lt/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/lt/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/lt/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/lt/images/social/flickr.png'></a>"
     }
 ]

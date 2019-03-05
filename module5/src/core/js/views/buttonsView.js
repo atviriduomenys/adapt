@@ -100,8 +100,8 @@ define([
             } else {
 
                 var propertyName = textPropertyName[buttonState.asString];
-                var ariaLabel = this.model.get('_buttons')["_" + propertyName].ariaLabel;
-                var buttonText = this.model.get('_buttons')["_" + propertyName].buttonText;
+                var ariaLabel = this.model.get('_buttons')[propertyName].ariaLabel;
+                var buttonText = this.model.get('_buttons')[propertyName].buttonText;
 
                 // Enable the button, make accessible and update aria labels and text
                 $buttonsAction.a11y_cntrl_enabled(true).html(buttonText).attr('aria-label', ariaLabel);

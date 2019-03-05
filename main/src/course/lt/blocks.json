@@ -6,18 +6,7 @@
         "_classes": "",
         "_trackingId": 0,
         "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-02",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "",
-        "_trackingId": 0,
-        "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -28,29 +17,7 @@
         "_classes": "inverted",
         "_trackingId": 1,
         "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-20",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "",
-        "_trackingId": 2,
-        "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-25",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "inverted",
-        "_trackingId": 3,
-        "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -61,7 +28,7 @@
         "_classes": "",
         "_trackingId": 4,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -72,7 +39,7 @@
         "_classes": "inverted",
         "_trackingId": 5,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -83,7 +50,7 @@
         "_classes": "",
         "_trackingId": 6,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -94,18 +61,7 @@
         "_classes": "inverted",
         "_trackingId": 7,
         "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-70",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "",
-        "_trackingId": 8,
-        "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -116,7 +72,7 @@
         "_classes": "inverted",
         "_trackingId": 9,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -127,7 +83,7 @@
         "_classes": "",
         "_trackingId": 10,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -138,7 +94,7 @@
         "_classes": "inverted",
         "_trackingId": 11,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -149,7 +105,7 @@
         "_classes": "",
         "_trackingId": 12,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -160,40 +116,7 @@
         "_classes": "inverted",
         "_trackingId": 13,
         "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-130",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "",
-        "_trackingId": 14,
-        "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-135",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "inverted",
-        "_trackingId": 15,
-        "_trickle": {
-            "_isEnabled":false,
-            "button": "Continue"
-        }
-    },
-    {
-        "_id": "b-140",
-        "_parentId": "a-01",
-        "_type": "block",
-        "_classes": "",
-        "_trackingId": 16,
-        "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     },
@@ -204,7 +127,7 @@
         "_classes": "summary",
         "_trackingId": 17,
         "_trickle": {
-            "_isEnabled":false,
+            "_isEnabled": false,
             "button": "Continue"
         }
     }

@@ -2,3 +2,4 @@ node_modules
 /scorm_*
 assemble.py
 /atviriduomenys/
+build/

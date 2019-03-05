@@ -161,6 +161,7 @@ require([
                 var ViewModelObject = Adapt.componentStore[json._component];
 
                 if(!ViewModelObject) {
+                    console.log(json);
                     throw new Error('One or more components of type "'+json._component+'" were included in the course - but no component of that type is installed...');
                 }
 
